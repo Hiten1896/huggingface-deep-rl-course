@@ -23,12 +23,13 @@ In this unit, I trained my first Deep Reinforcement Learning agent to land safel
 
 ## 📊 Training Results & Metrics
 
-- **Mean Reward:** [$254.08 \pm 29.32$]
-- **Target Threshold:** >= 200 (Pass threshold for certification)
+- **Mean Reward:** **254.08 ± 29.32**
+- **Target Threshold:** >= 200 (Pass threshold for course certification)
 - **Training Timesteps:** 1,000,000
 
 ---
 
-## 🎥 Agent Demo
+## 🎥 Agent Demo & Model Card
 
-*(Hiten1896/ppo-LunarLander-v2)*
+Check out the live model card and video preview on Hugging Face:
+👉 **[Hiten1896/ppo-LunarLander-v2](https://huggingface.co/Hiten1896/ppo-LunarLander-v2)**
