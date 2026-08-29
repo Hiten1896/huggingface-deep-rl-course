@@ -23,7 +23,7 @@ In this unit, I coded my first tabular **Q-Learning** algorithm from scratch usi
 
 ## 📊 Training Results & Metrics
 
-- **Mean Reward:** **4.55 ± 2.68**
+- **Mean Reward:** **-99.00 ± 0.00**
 - **Target Threshold:** >= 4.5 (Pass threshold for course certification)
 - **Evaluated Episodes:** 100
 
