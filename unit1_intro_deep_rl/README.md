@@ -23,7 +23,7 @@ In this unit, I trained my first Deep Reinforcement Learning agent to land safel
 
 ## 📊 Training Results & Metrics
 
-- **Mean Reward:** [Insert your mean score, e.g., +230.5 ± 15.2]
+- **Mean Reward:** [$254.08 \pm 29.32$]
 - **Target Threshold:** >= 200 (Pass threshold for certification)
 - **Training Timesteps:** 1,000,000
 
@@ -31,4 +31,4 @@ In this unit, I trained my first Deep Reinforcement Learning agent to land safel
 
 ## 🎥 Agent Demo
 
-*(Add a GIF or link to your Hugging Face Hub model space here)*
+*(Hiten1896/ppo-LunarLander-v2)*
