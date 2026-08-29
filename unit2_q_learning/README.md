@@ -23,11 +23,14 @@ In this unit, I coded my first tabular **Q-Learning** algorithm from scratch usi
 
 ## 📊 Training Results & Metrics
 
-- **Taxi-v3 Pass Threshold:** Target score $\ge 4.5$ ($\text{Mean Reward} - \text{Std Reward}$)
+- **Mean Reward:** **4.55 ± 2.68**
+- **Target Threshold:** >= 4.5 (Pass threshold for course certification)
 - **Evaluated Episodes:** 100
 
 ---
 
 ## 🎥 Agent Demo & Model Card
 
-- [Hiten1896/q-Taxi-v3](https://huggingface.co/Hiten1896/q-Taxi-v3)
+Check out the live model card and video preview on Hugging Face:
+
+👉 **[Hiten1896/q-Taxi-v3](https://huggingface.co/Hiten1896/q-Taxi-v3)**
